@@ -25,7 +25,6 @@ function playGame(){
         console.log("Player: ", humanScore, "Computer", computerScore)
         console.log("you lost!");
     }
-
 }
 //rock = 1 paper = 2 sissors = 3
 function playRound(human, computer){
